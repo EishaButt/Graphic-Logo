@@ -1,2 +1,2 @@
 # Graphic-Logo !!
-My first practice using  Adobe Illustrator
+My first practice of making a logo using  Adobe Illustrator.
